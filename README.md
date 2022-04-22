@@ -1,4 +1,4 @@
 # Quantum-Computing
 
 ## Book-ppt
-* 1.[Introduce](.Book-ppt/QC introduce.pptx)
+1.[In](Book-ppt/QC introduce.pptx)
